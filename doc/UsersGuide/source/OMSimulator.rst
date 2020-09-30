@@ -7,6 +7,8 @@ OMSimulator is a command line wrapper for the OMSimulatorLib library.
 
 .. index:: OMSimulator; Flags
 
+.. _oms-flags:
+
 OMSimulator Flags
 -----------------
 
